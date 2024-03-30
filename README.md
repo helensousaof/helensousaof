@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Helen
-- 📚 Graduate in Systems Analysis and Development and at the same time extracurricular courses
+- 📚 Student of Systems Analysis and Development and at the same time extracurricular courses
 - 🌱 I'm currently improving my skills in JavaScript, C and C# and databases
 - 📫 my projects are on github and you can contact me via linkedln Helen Sousa
 - 😄 Pronouns: She/her

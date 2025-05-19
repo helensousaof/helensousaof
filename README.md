@@ -1,7 +1,7 @@
 ##  Olá! Eu sou a Helen Sousa👋
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 Trabalho como front-end
+- 🌱 Trabalho como banckend
 - ✨ Fiz a Piscine da escola 42 em Lisboa 
 - 😄 Pronouns: She/her
 
